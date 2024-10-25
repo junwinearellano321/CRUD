@@ -1,0 +1,16 @@
+C:\Users\jadea\source\repos\Eniwnuj\bin\Debug\net8.0-windows\Eniwnuj.exe
+C:\Users\jadea\source\repos\Eniwnuj\bin\Debug\net8.0-windows\Eniwnuj.deps.json
+C:\Users\jadea\source\repos\Eniwnuj\bin\Debug\net8.0-windows\Eniwnuj.runtimeconfig.json
+C:\Users\jadea\source\repos\Eniwnuj\bin\Debug\net8.0-windows\Eniwnuj.dll
+C:\Users\jadea\source\repos\Eniwnuj\bin\Debug\net8.0-windows\Eniwnuj.pdb
+C:\Users\jadea\source\repos\Eniwnuj\obj\Debug\net8.0-windows\Eniwnuj.Form1.resources
+C:\Users\jadea\source\repos\Eniwnuj\obj\Debug\net8.0-windows\Eniwnuj.csproj.GenerateResource.cache
+C:\Users\jadea\source\repos\Eniwnuj\obj\Debug\net8.0-windows\Eniwnuj.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jadea\source\repos\Eniwnuj\obj\Debug\net8.0-windows\Eniwnuj.AssemblyInfoInputs.cache
+C:\Users\jadea\source\repos\Eniwnuj\obj\Debug\net8.0-windows\Eniwnuj.AssemblyInfo.cs
+C:\Users\jadea\source\repos\Eniwnuj\obj\Debug\net8.0-windows\Eniwnuj.csproj.CoreCompileInputs.cache
+C:\Users\jadea\source\repos\Eniwnuj\obj\Debug\net8.0-windows\Eniwnuj.dll
+C:\Users\jadea\source\repos\Eniwnuj\obj\Debug\net8.0-windows\refint\Eniwnuj.dll
+C:\Users\jadea\source\repos\Eniwnuj\obj\Debug\net8.0-windows\Eniwnuj.pdb
+C:\Users\jadea\source\repos\Eniwnuj\obj\Debug\net8.0-windows\Eniwnuj.genruntimeconfig.cache
+C:\Users\jadea\source\repos\Eniwnuj\obj\Debug\net8.0-windows\ref\Eniwnuj.dll
